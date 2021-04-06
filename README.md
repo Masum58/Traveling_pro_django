@@ -1,2 +1,3 @@
 # Traveling_pro_django
-Static and dynamic file combination
+Static and dynamic file
+Start start new journey
